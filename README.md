@@ -5,7 +5,7 @@ we'll show you how to create a responsive image gallery using HTML, CSS and JS. 
 
 responsive image galleries are a great way to increase brand visibility and show off your website's content in a more visually appealing way. In this video, we'll show you how to create a responsive image gallery using HTML, CSS and JS, so you can create a gallery that looks great on any device!
 
-<img src="https://yt3.ggpht.com/zbhR6u7XRsG6pl-58YaGdDTSQ_1f1DwKlWc1W76UvN3k5Z37BfeBcPZQiV-mu0dcXeQg9CsnWA=s88-c-k-c0x00ffffff-no-rj-mo">
+<img src="https://i.ytimg.com/vi/wnbiYjNVssM/maxresdefault.jpg">
 
 
 ## Javascript
